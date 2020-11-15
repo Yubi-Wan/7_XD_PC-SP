@@ -611,6 +611,7 @@ input, select {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
   }
 
 
@@ -618,7 +619,6 @@ input, select {
     display: flex;
     align-items: center;
     border-bottom: solid 1px #666666;
-    width: 100%;
     box-sizing: border-box;
     padding: 0px 0px;
     height: 45px;
@@ -630,7 +630,7 @@ input, select {
   }
 
   .news dd{
-    width: 253px;
+    width: 235px;
     margin: 0 0 0 0;
     font-size: 13px;
     white-space: nowrap;
